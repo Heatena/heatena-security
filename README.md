@@ -53,7 +53,7 @@ Whether you’re protecting your privacy, lifestyle, business, or financial futu
 ## 🔗 Try It Now
 
 Experience your **Security Health Check** free in under 60 seconds:  
-👉 https://heatena.com
+👉 https://heatena.net/get-started
 
 *(No account. No personal info. No tracking.)*
 
@@ -75,7 +75,7 @@ If you believe you’ve found a vulnerability, please review our security policy
 
 ## 🌐 Connect with Us
 
-- Website: https://heatena.com  
+- Website: https://heatena.net  
 - LinkedIn: https://linkedin.com/company/heatena  
 - X/Twitter: https://x.com/heatena  
 
