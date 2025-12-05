@@ -1,6 +1,6 @@
-# Heatena — Privacy-First Digital Security Platform
+# Heatena Security
 
-Heatena is a next-gen cybersecurity company focused on making digital protection simple, private, and accessible to everyone. Our platform helps you instantly understand how secure your digital life really is — without sharing any personal information.
+Heatena is a next-gen, self-service security platform designed to make protecting your digital life simple, private, and accessible.
 
 ---
 
@@ -11,7 +11,6 @@ At the core of Heatena is the **Security Health Check (SHC)** — a fast, anonym
 - Identifies vulnerabilities in your digital accounts & setup  
 - Highlights the highest-risk issues impacting your privacy and safety  
 - Gives clear, non-technical steps to fix them  
-- Works anonymously — no email, no signup, no exposure
 
 → **No security expertise required. No meetings. No friction.**
 
@@ -52,32 +51,27 @@ Whether you’re protecting your privacy, lifestyle, business, or financial futu
 
 ## 🔗 Try It Now
 
-Experience your **Security Health Check** free in under 60 seconds:  
+Experience your **Free HEAT Check** in under 3 minutes:  
 👉 https://heatena.net/get-started
 
-*(No account. No personal info. No tracking.)*
-
----
-
-## 📚 Learn More
-
-Documentation, FAQs, and security guidance:  
-https://github.com/Heatena/docs
 
 ---
 
 ## 🔒 Responsible Disclosure
 
 We take security seriously.  
-If you believe you’ve found a vulnerability, please review our security policy in `SECURITY.md`.
+If you believe you’ve found a vulnerability, please reach out at security@heatena.net.
 
 ---
 
 ## 🌐 Connect with Us
 
 - Website: https://heatena.net  
-- LinkedIn: https://linkedin.com/company/heatena  
-- X/Twitter: https://x.com/heatena  
+- LinkedIn: https://www.linkedin.com/company/heatena  
+- X/Twitter: https://x.com/HeatenaLLC
+- Instagram: https://www.instagram.com/heatenallc
+- Medium: https://medium.com/@heatena
+- YouTube: https://www.youtube.com/@heatena
 
 ---
 
