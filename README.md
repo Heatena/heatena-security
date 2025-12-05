@@ -75,4 +75,8 @@ If you believe you’ve found a vulnerability, please reach out at security@heat
 
 ---
 
+### © 2025 Heatena. All rights reserved.
+
+---
+
 ⭐ If you believe everyone deserves simple, private digital security — give us a star!
